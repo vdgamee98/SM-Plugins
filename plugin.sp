@@ -1,2 +1,2 @@
 #include <sourcemod>
-#include <strike>
+#include <cstrike>
